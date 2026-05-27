@@ -13,3 +13,6 @@ Características clínicas de los pacientes
 
 A partir de este análisis, se desarrollaron diferentes visualizaciones (gráficos de barras, líneas, tablas, indicadores KPI y gráficos circulares) que permiten explorar el comportamiento epidemiológico del virus de forma intuitiva.
 Este proyecto evidencia el valor del uso de herramientas de inteligencia de negocio para convertir datos en información útil, facilitando la comprensión de fenómenos complejos en el ámbito de la salud pública.
+
+Shahzad, K. (2026). Hantavirus (Andes Virus) — Global Epidemiology [Conjunto de datos]. Kaggle. https://www.kaggle.com/datasets/zkskhurram/hantavirus-andes-virus-global-epidemiology
+``
